@@ -1,3 +1,7 @@
+<h1>Tic Tac Toe with moves history</h1>
+<p>These are the official docs for the Tic Tac Toe game.</p>
+<img src="preview.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
